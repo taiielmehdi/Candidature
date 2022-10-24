@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[REF_NiveauEtude]
+(
+	[Id] INT NOT NULL IDENTITY PRIMARY KEY, 
+    [Name] NVARCHAR(MAX) NULL
+)

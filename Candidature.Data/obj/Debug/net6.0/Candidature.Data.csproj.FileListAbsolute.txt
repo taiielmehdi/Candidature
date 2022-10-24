@@ -1,0 +1,14 @@
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\bin\Debug\net6.0\Candidature.Data.deps.json
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\bin\Debug\net6.0\Candidature.Data.runtimeconfig.json
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\bin\Debug\net6.0\Candidature.Data.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\bin\Debug\net6.0\Candidature.Data.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.csproj.AssemblyReference.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.AssemblyInfoInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.AssemblyInfo.cs
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.csproj.CoreCompileInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\refint\Candidature.Data.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\Candidature.Data.genruntimeconfig.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Data\obj\Debug\net6.0\ref\Candidature.Data.dll

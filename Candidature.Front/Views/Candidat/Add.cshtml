@@ -1,0 +1,99 @@
+﻿@model Candidature.Module.Modules.CandidatModule
+@{
+    ViewData["Title"] = "Add";
+
+}
+<style>
+  .row  {
+    padding-bottom: 4% ;
+}
+
+   
+</style>
+
+<div class="row justify-content-center align-items-center h-100">
+    <div class="col-12 col-lg-9 col-xl-7">
+        <div class="card shadow-2-strong card-registration" style="border-radius: 15px;">
+            <div class="card-body p-4 p-md-5">
+                <h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Candidature</h3>
+                
+                <form method="post" asp-action="Add" asp-controller="Candidat" enctype="multipart/form-data">
+                    <div class="pb">
+                    <div class="row">
+                        <div class="col-md-6 p- ">
+                            <div class="form-outline">
+                                <input asp-for="Nom" type="text" class="form-control form-control-lg" placeholder="Nom" />
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-6 ">
+                            <div class="form-outline">
+                                <input asp-for="Prenom" type="text" class="form-control form-control-lg" placeholder="Prenom" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="form-outline">
+                                <input asp-for="Email" type="text" class="form-control form-control-lg" placeholder="Email" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="form-outline">
+                                <input type="text" id="Telephone" asp-for="Telephone" class="form-control form-control-lg" placeholder="Téléphone" />
+                            </div>
+                        </div>
+                   
+                        <div class="col-6">
+                        <div class="form-group">
+
+                                <select asp-items="ViewBag.RefNiveauEtude" asp-for="RefNiveauEtudeId" class="form-control form-control-lg ">
+                                    <option>
+                                       -  Niveau d’étude - 
+                                    </option>
+                            </select>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 ">
+                            <div class="form-outline">
+                                <input asp-for="NbrAnneesDexperience" type="text" class="form-control form-control-lg" placeholder="Nombre d’années d’expérience  " />
+                            </div>
+                        </div>
+                        <div class="col-md-6 ">
+                            <div class="form-outline">
+                                <input asp-for="DernierEmployeur" type="text" id="lastName" class="form-control form-control-lg" placeholder="Dernier employeur" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 ">
+                    <div class="form-outline">
+                    <input asp-for="File" type="file" class="form-control form-control-lg"/>
+                    </div>
+                    </div>
+
+                        <br>
+                    <div class="form-group row">
+                        <div class="col-8 offset-2 row mt-2">
+                            <div class="col">
+                                <input type="submit" class="btn btn-info w-75" value="Add" />
+                            </div>
+                            <div class="col">
+                                <a asp-action="Index" class="btn btn-danger w-75">Back</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </form>
+             
+            </div>
+        </div>
+    </div>
+</div>

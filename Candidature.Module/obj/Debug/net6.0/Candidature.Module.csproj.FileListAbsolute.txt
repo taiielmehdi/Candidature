@@ -1,0 +1,12 @@
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\bin\Debug\net6.0\Candidature.Module.deps.json
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\bin\Debug\net6.0\Candidature.Module.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\bin\Debug\net6.0\Candidature.Module.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.csproj.AssemblyReference.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.AssemblyInfoInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.AssemblyInfo.cs
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.csproj.CoreCompileInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\refint\Candidature.Module.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\Candidature.Module.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Module\obj\Debug\net6.0\ref\Candidature.Module.dll

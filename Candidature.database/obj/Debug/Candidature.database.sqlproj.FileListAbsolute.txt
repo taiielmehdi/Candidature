@@ -1,0 +1,6 @@
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\bin\Debug\Candidature.database.dacpac
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\bin\Debug\Candidature.database.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\bin\Debug\Candidature.database.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\obj\Debug\Candidature.database.sqlproj.AssemblyReference.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\obj\Debug\Candidature.database.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.database\obj\Debug\Candidature.database.pdb

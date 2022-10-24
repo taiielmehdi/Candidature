@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="8c221551-58ba-4d09-ac74-918d3abfcaff" ChangeDateTime="10/21/2022 20:36:08">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[Mail]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EMail" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="de8c6be9-4d70-4cc2-8ead-8b35233fb843" ChangeDateTime="10/21/2022 20:36:14">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[EMail]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Email" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="71fb89ab-6625-4386-b44a-660ad2616b15" ChangeDateTime="10/21/2022 20:40:06">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[NbrAnneeExperstion]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NbrAnneesDexperience" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a9d5e5e3-90fc-4266-9f10-5da72f10e600" ChangeDateTime="10/22/2022 01:13:05">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[Image]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="P" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="87629005-b075-4379-b7c8-b9dd42f40044" ChangeDateTime="10/22/2022 01:14:24">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[P]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="File" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="867bb73e-75bc-4983-a2ad-a802ec80a7c6" ChangeDateTime="10/22/2022 22:29:32">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[fullPath]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FullPath" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="36c6468e-3ef2-4390-9576-62ee61410233" ChangeDateTime="10/22/2022 22:29:37">
+    <Property Name="ElementName" Value="[dbo].[Candidat].[FullPath]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Candidat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Path" />
+  </Operation>
+</Operations>

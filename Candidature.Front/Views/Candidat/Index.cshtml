@@ -1,0 +1,112 @@
+﻿@model List<Candidature.Module.Modules.CandidatModule>
+
+<style>
+    div#changePos {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .info{
+        background-color: black;
+        color: wheat;
+    }
+</style>
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">  Candidat </h2>
+        </div>
+        <div id="changePos" class="col-6 ">
+            <a asp-controller="Candidat" asp-action="Add" class="btn btn-primary">Add New Candidat</a>
+        </div>
+    </div>
+    <div>
+        <form>
+            <div class="input-group">
+                <div class=" d-flex form-outline">
+                    <input name="Keyword" placeholder="Keyword" id="form1" class="form-control" />
+                    <input type="submit" value="Rechercher" class="btn btn-primary" />
+                </div>
+            </div>
+        </form>
+    </div>
+    <br />
+
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered text-center ">
+            <thead class="info">
+                <tr>
+                    <th scope="col">Nom</th>
+                    <th scope="col">Prénom</th>
+                    <th scope="col">Mail</th>
+                    <th scope="col">Téléphone</th>
+                    <th scope="col">Niveau d’étude</th>
+                    <th scope="col">Nombre d’années d’expérience</th>
+                    <th scope="col">Dernier employeur</th>
+                    <th scope="col">CV de candidat </th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody enctype="multipart/form-data">
+                @foreach (var Candidat in Model)
+                {
+                    <tr>
+                        <td width="13%">@Candidat.Nom </td>
+                        <td width="13%">@Candidat.Prenom </td>
+                        <td width="11%">@Candidat.Email </td>
+                        <td width="13%">@Candidat.Telephone </td>
+                        <td width="17%">@Candidat.RefNiveauEtude </td>
+                        <td width="20%">@Candidat.NbrAnneesDexperience </td>
+                        <td width="13%">@Candidat.DernierEmployeur </td>
+                        @if(@Candidat.Path == null){
+                            <td width="13%">No Cv opload </td>
+                        }
+                        else{
+                            <td width="15%"> <a href="~/File/@Candidat.Path" download> Download </a> </td>
+                        }
+                       
+                        @*<td width="15%"> @Candidat.Path </td>*@
+                         <td width="20%">
+                            <div class="w-100 btn-group" >
+                                <a onclick="AlertDelete('@Candidat.Id')" class="btn btn-danger mx-1">Delete</a>
+                            </div>
+                         </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p> Non Table create Yet</p>
+
+    }
+  
+ 
+<script>
+    function AlertDelete(identificador) {
+        Swal.fire({
+            title: 'Are you sure?',
+            text: "You won't be able to revert this!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes, delete it!'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                $.ajax({
+                        url: "/Candidat/Delete/" + identificador,
+                    success: function (r) {
+                            window.location = "/Candidat/";
+                    }
+                });
+            }
+            return false;
+        });
+    }
+</script>
+
+     

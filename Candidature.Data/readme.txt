@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=.;Initial Catalog=Candidature;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -Context CandidatureContext -ContextDir Contexts -OutputDir Models -Force

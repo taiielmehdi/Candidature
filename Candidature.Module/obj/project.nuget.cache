@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YY+27fHOp6LSJmpir8SJjv5Z0GxvWmS84Cvi+qNIYEgGEKao/A/dNGJtVNUsKwqEWj7DPBHmEjZNw+Jj934RtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ElmehdiElHorri\\Downloads\\Candidature-main\\Candidature-main\\Candidature.Module\\Candidature.Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ElmehdiElHorri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ElmehdiElHorri\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ElmehdiElHorri\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Business.deps.json
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Business.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Business.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Data.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Module.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Data.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\bin\Debug\net6.0\Candidature.Module.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.csproj.AssemblyReference.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.AssemblyInfoInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.AssemblyInfo.cs
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.csproj.CoreCompileInputs.cache
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.csproj.CopyComplete
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\refint\Candidature.Business.dll
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\Candidature.Business.pdb
+C:\Users\ElmehdiElHorri\Downloads\Candidature-main\Candidature-main\Candidature.Business\obj\Debug\net6.0\ref\Candidature.Business.dll
