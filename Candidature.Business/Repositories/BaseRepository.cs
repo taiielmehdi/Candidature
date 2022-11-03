@@ -11,10 +11,6 @@ namespace Candidature.Business.Repositories
     public class BaseRepository
     {
         protected readonly CandidatureContext _context;
-
-        public BaseRepository()
-        {
-        }
         public BaseRepository(CandidatureContext context)
         {
             _context = context;
